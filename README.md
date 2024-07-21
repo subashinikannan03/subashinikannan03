@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 It's me SUBASHINI KANNNAN
 
-<!--
-**subashinikannan03/subashinikannan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student @ Kamaraj College of engineering and technology
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🌱 I’m currently learning Inforamtion Technology
+- 👯 I’m looking to collaborate on Data Analytics/AI
+- 🤔 I’m looking for help with Placements 
 
-Here are some ideas to get you started:
+- 📫 How to reach me :
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subashini-kannan-289a1125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/_suba_kannan_/)
+- 😄 Pronouns: Techie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+
+
+
+
+### I practice in
+
+### hacker rank
+(https://www.hackerrank.com/subashinikannan1/hackos)
+### skillrack
+(https://www.skillrack.com/faces/ui/profile.xhtml)
+### leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Subashinikannan?theme=dark&font=Lobster)
+
+
+
+
